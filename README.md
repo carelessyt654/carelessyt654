@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cayden
 
-###### js a kid making stuff out of nothing i guess
+###### (js a kid making stuff out of nothing i guess)
 
 ---
 
@@ -17,7 +17,7 @@
 ###  Current Goals:
 
 ```
-  1. Fully understand/comprehend the code I write. (not quite completed)
+  1. Fully understand/comprehend the code I write. (getting closer)
 
   2. Learn JS and Python. (not completed)
 
